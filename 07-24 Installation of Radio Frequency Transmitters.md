@@ -1,0 +1,2 @@
+# Installation of Radio Frequency Transmitters
+Before installing any radio frequency transmitter in your vehicle, consult a Maruti Suzuki authorised workshop regarding the appropriate frequency band, maximum output power, antenna position, and any specific installation conditions. Incorrectly installed transmitters, or those not suited to the vehicle, may cause the electronic control systems to malfunction.
